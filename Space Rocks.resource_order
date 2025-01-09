@@ -25,6 +25,7 @@
     {"name":"snd_bg_song","order":4,"path":"sounds/snd_bg_song/snd_bg_song.yy",},
     {"name":"snd_boom","order":3,"path":"sounds/snd_boom/snd_boom.yy",},
     {"name":"snd_losing","order":2,"path":"sounds/snd_losing/snd_losing.yy",},
+    {"name":"snd_winnin","order":5,"path":"sounds/snd_winnin/snd_winnin.yy",},
     {"name":"snd_zapping","order":1,"path":"sounds/snd_zapping/snd_zapping.yy",},
     {"name":"spr_asteroid_large","order":3,"path":"sprites/spr_asteroid_large/spr_asteroid_large.yy",},
     {"name":"spr_asteroid_med","order":2,"path":"sprites/spr_asteroid_med/spr_asteroid_med.yy",},

@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 var _game_instructions = @"
-Score 1,000 points to win!
+Score 500 points to win!
 
 UP: move
 LEFT/RIGHT: change direction

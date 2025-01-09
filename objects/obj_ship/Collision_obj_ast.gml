@@ -2,6 +2,11 @@
 // You can write your code in this editor
 lives -= 1;
 
+with(obj_game){
+	alarm[1] = room_speed;
+
+audio_play_sound(snd_losing, 1, false)
+}
 instance_destroy();
 
 repeat(10){

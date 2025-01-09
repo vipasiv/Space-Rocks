@@ -47,6 +47,7 @@
     {"id":{"name":"snd_boom","path":"sounds/snd_boom/snd_boom.yy",},},
     {"id":{"name":"snd_hurting","path":"sounds/snd_hurting/snd_hurting.yy",},},
     {"id":{"name":"snd_losing","path":"sounds/snd_losing/snd_losing.yy",},},
+    {"id":{"name":"snd_winnin","path":"sounds/snd_winnin/snd_winnin.yy",},},
     {"id":{"name":"snd_zapping","path":"sounds/snd_zapping/snd_zapping.yy",},},
     {"id":{"name":"spr_asteroid_large","path":"sprites/spr_asteroid_large/spr_asteroid_large.yy",},},
     {"id":{"name":"spr_asteroid_med","path":"sprites/spr_asteroid_med/spr_asteroid_med.yy",},},
