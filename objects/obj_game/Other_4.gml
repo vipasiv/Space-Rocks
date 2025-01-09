@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if(room == rm_game){
+	audio_play_sound(snd_bg_song, 2, true)
 	repeat(6){
 		var xx = choose(
 			irandom_range(0, room_width*0.3),

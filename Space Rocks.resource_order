@@ -22,6 +22,7 @@
     {"name":"rm_gameover","order":3,"path":"rooms/rm_gameover/rm_gameover.yy",},
     {"name":"rm_start","order":1,"path":"rooms/rm_start/rm_start.yy",},
     {"name":"rm_win","order":2,"path":"rooms/rm_win/rm_win.yy",},
+    {"name":"snd_bg_song","order":4,"path":"sounds/snd_bg_song/snd_bg_song.yy",},
     {"name":"snd_boom","order":3,"path":"sounds/snd_boom/snd_boom.yy",},
     {"name":"snd_losing","order":2,"path":"sounds/snd_losing/snd_losing.yy",},
     {"name":"snd_zapping","order":1,"path":"sounds/snd_zapping/snd_zapping.yy",},

@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_boom",
+  "%Name":"snd_bg_song",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.560771,
-  "name":"snd_boom",
+  "duration":11.228083,
+  "name":"snd_bg_song",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_boom.wav",
+  "soundFile":"snd_bg_song.wav",
   "type":0,
   "volume":1.0,
 }

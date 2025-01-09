@@ -43,6 +43,7 @@
     {"id":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
+    {"id":{"name":"snd_bg_song","path":"sounds/snd_bg_song/snd_bg_song.yy",},},
     {"id":{"name":"snd_boom","path":"sounds/snd_boom/snd_boom.yy",},},
     {"id":{"name":"snd_hurting","path":"sounds/snd_hurting/snd_hurting.yy",},},
     {"id":{"name":"snd_losing","path":"sounds/snd_losing/snd_losing.yy",},},
