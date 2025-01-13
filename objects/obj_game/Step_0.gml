@@ -15,7 +15,7 @@ if(keyboard_check_pressed(vk_enter)){
 	}
 }
 if(room == rm_game){
-	if(score >= 500){
+	if(score >= 100){
 		room_goto(rm_win);
 		audio_play_sound(snd_winnin ,1, false);
 		audio_stop_sound(snd_bg_song);
